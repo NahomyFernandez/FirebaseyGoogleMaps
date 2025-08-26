@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "121133400520",
+    "firebase_url": "https://maps-firebase-4b840-default-rtdb.firebaseio.com",
+    "project_id": "maps-firebase-4b840",
+    "storage_bucket": "maps-firebase-4b840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121133400520:android:a7548f98e1d57f51bc00fd",
+        "android_client_info": {
+          "package_name": "com.example.firebaseygooglemaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2d-pPIknrzk94lbbmY832OFsoNkx27fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
